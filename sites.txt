@@ -1,0 +1,7 @@
+http://www.beluga.com
+http://backoffice.beluga.com
+http://xanax.info
+http://www.xanax/en/home
+http://service.mysite.com
+http://www.mysite.com
+<add-as-much-websites-you-need>
